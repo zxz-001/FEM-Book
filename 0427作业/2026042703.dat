@@ -1,6 +1,6 @@
 TITLE = "Example: Duplicated Variables and Connectivity Lists"
 VARIABLES = "X", "Y", "P"
-ZONE T="P_1", F=FEPOINT, N=6, E=4, ET=TRIANGLE
+ZONE T="P_1", F=FEPOINT, N=6, E=5, ET=TRIANGLE
 -1.0 0.0 100
 0.0 0.0 125
 1.0 0.0 150
